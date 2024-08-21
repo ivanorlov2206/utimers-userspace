@@ -1,0 +1,6 @@
+*.o
+*.so
+tests/*.o
+example/*.o
+example/example
+tests/test
